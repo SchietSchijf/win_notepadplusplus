@@ -1,0 +1,19 @@
+{
+	"author": "Roeland van den Broeck",
+	"dependencies": [],
+	"license": "none",
+	"name": "schietschijf/win_notepadplusplus",
+	"operatingsystem_support": [{
+			"operatingsystem": "Windows",
+			"operatingsystemrelease": [ "7"
+			]
+		}
+	],
+	"project_page": "https://github.com/SchietSchijf/win_notepadplusplus",
+	"requirements": [],
+	"source": "https://github.com/SchietSchijf/win_notepadplusplus",
+	"summary": "Notepad++ module",
+	"tags": [],
+	"version": "1.0.0",
+	"issues_url": "https://github.com/SchietSchijf/win_notepadplusplus/issues"
+}
